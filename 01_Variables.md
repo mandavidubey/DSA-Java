@@ -61,7 +61,7 @@ These are the data types of fixed size.
 |bool|Boolean|1|True, false|
 <br>
 
-**Non-Primitive Data Types**
+**Non-Primitive Data Types**<br>
 These are of variable size & are usually declared with a ‘new’ keyword.<br>
 
 Eg : String, Arrays<br>

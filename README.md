@@ -1,4 +1,4 @@
-# Installation & First Program
+# Installation
 
 **Install Java**<br>
 

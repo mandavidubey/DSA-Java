@@ -51,3 +51,11 @@ public class Main {
    }
 }
 ```
+
+# What happends in memory?
+- Functions are stored as *stack* in the memory. 
+- Functions are given memory when created.
+- Memory is erased after the execution of the particular function.
+
+# Difference between Functions & Methods
+Both are a block of code but *Functions* can be called directly and *Methods* are called through objects of the class.

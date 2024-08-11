@@ -8,8 +8,8 @@ String name = "Mandavi";
 ```
 Scanner sc = new Scanner(System.in);
 String name = sc.next();
-//whenever you want to take a word as input then use ```sc.next()``` otherwise for more than one word ```write sc.nextLine()```
 ```
+=> whenever you want to take a word as input then use `sc.next()` otherwise for more than one word write `sc.nextLine()`
 <br>
 
 # Concatenation ( Joining 2 Strings )

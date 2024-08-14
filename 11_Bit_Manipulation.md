@@ -6,7 +6,7 @@ Here we will play with Binary Numbers.<br>
 
 # Operations in Bit Manipulation
 
-1. GET
+**1. GET**
 
 ```
 import java.util.*;
@@ -28,7 +28,7 @@ public class Bits {
 
 <br>
 
-2. SET
+**2. SET**
 
 ```
 import java.util.*;
@@ -48,7 +48,7 @@ public class Bits {
 
 <br>
 
-3. CLEAR
+**3. CLEAR**
 
 ```
 import java.util.*;
@@ -66,7 +66,7 @@ public class Bits {
 
 <br>
 
-4. UPDATE
+**4. UPDATE**
 
 ```
 import java.util.*;

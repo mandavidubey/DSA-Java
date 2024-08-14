@@ -79,8 +79,4 @@ System.out.println(b);//10
 1. Divide the given number by 2.
 2. Read the remainders from down to up.
 Eg: Take number 4.<br>
-|2|4|   
-|-|-|
-|2|2|   
-|-|-|
-| |1|
+![Division](image-1.png)

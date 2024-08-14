@@ -1,7 +1,7 @@
 # Operators in Java
 Symbols that tell compiler to perform some operation.
 # Types of Operators
-1. Arithmetic Operators<br>
+**1. Arithmetic Operators**<br>
     a. Unary Operators<br>
         i. +<br>
         ii. -<br>
@@ -11,25 +11,25 @@ Symbols that tell compiler to perform some operation.
     b. Binary Operators<br>
         i. ++ (Increment)<br>
         ii. -- (Decrement)<br>
-2. Relational Operators (gives Boolean values)<br>
+**2. Relational Operators (gives Boolean values)**<br>
     a. ==<br>
     b. !=<br>
     c. ><br>
     d. <<br>
     e. >=<br>
     f. <=<br>
-3. Logical Operators<br>
+**3. Logical Operators**<br>
     a. && -> Logical AND<br>
     b. || -> Logical OR<br>
     c. ! -> Logical NOT<br>
-4. BITWISE Operators (Output is in Bits)<br>
+**4. BITWISE Operators (Output is in Bits)**<br>
     a. & -> Binary AND<br>
     b. | -> Binary OR<br>
     c. ^ -> Binary XOR<br>
     d. ~ -> Binary One's Compliment<br>
     e. << -> Binary Left Shift<br>
     f. >> -> Binary Right Shift<br>
-5. Assignment Operators<br>
+**5. Assignment Operators**<br>
     a. =<br>
     b. +=<br>
     c. -+<br>

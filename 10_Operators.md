@@ -22,14 +22,13 @@ Symbols that tell compiler to perform some operation.
     a. && -> Logical AND
     b. || -> Logical OR
     c. ! -> Logical NOT
-4. BITWISE Operators
-    a. &
-    b. |
-    c. !
-    d. ^
-    e. ~
-    f. <<
-    g. >>
+4. BITWISE Operators (Output is in Bits)
+    a. & -> Binary AND
+    b. | -> Binary OR
+    c. ^ -> Binary XOR
+    d. ~ -> Binary One's Compliment
+    e. << -> Binary Left Shift
+    f. >> -> Binary Right Shift
 5. Assignment Operators
     a. =
     b. +=

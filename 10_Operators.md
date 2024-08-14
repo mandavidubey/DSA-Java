@@ -1,40 +1,40 @@
 # Operators in Java
 Symbols that tell compiler to perform some operation.
 # Types of Operators
-1. Arithmetic Operators
-    a. Unary Operators
-        i. +
-        ii. -
-        iii. *
-        iv. /
-        v. % (Gives you remainder)
-    b. Binary Operators
-        i. ++ (Increment)
-        ii. -- (Decrement)
-2. Relational Operators (gives Boolean values)
-    a. ==
-    b. !=
-    c. >
-    d. <
-    e. >=
-    f. <=
-3. Logical Operators
-    a. && -> Logical AND
-    b. || -> Logical OR
-    c. ! -> Logical NOT
-4. BITWISE Operators (Output is in Bits)
-    a. & -> Binary AND
-    b. | -> Binary OR
-    c. ^ -> Binary XOR
-    d. ~ -> Binary One's Compliment
-    e. << -> Binary Left Shift
-    f. >> -> Binary Right Shift
-5. Assignment Operators
-    a. =
-    b. +=
-    c. -+
-    d. *=
-    e. /=
+1. Arithmetic Operators<br>
+    a. Unary Operators<br>
+        i. +<br>
+        ii. -<br>
+        iii. *<br>
+        iv. /<br>
+        v. % (Gives you remainder)<br>
+    b. Binary Operators<br>
+        i. ++ (Increment)<br>
+        ii. -- (Decrement)<br>
+2. Relational Operators (gives Boolean values)<br>
+    a. ==<br>
+    b. !=<br>
+    c. ><br>
+    d. <<br>
+    e. >=<br>
+    f. <=<br>
+3. Logical Operators<br>
+    a. && -> Logical AND<br>
+    b. || -> Logical OR<br>
+    c. ! -> Logical NOT<br>
+4. BITWISE Operators (Output is in Bits)<br>
+    a. & -> Binary AND<br>
+    b. | -> Binary OR<br>
+    c. ^ -> Binary XOR<br>
+    d. ~ -> Binary One's Compliment<br>
+    e. << -> Binary Left Shift<br>
+    f. >> -> Binary Right Shift<br>
+5. Assignment Operators<br>
+    a. =<br>
+    b. +=<br>
+    c. -+<br>
+    d. *=<br>
+    e. /=<br>
 
 # Binary Operators
 - Pre-increment (++a or --a)

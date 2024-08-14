@@ -80,3 +80,5 @@ System.out.println(b);//10
 2. Read the remainders from down to up.
 Eg: Take number 4.<br>
 ![Division](image-1.png)
+# Binary to Decimal
+![Binary to Decimal](image-2.png)

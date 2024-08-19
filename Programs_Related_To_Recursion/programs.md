@@ -102,3 +102,59 @@ public class Recursions {
     }
 }
 ```
+# 6. Print x^n (with stack height = n).
+```
+package Programs_Related_To_Recursion;
+
+import java.util.*;
+
+public class Recursions {
+    public static int stack(int x, int n) {
+        if (n == 0) {
+            return 1;
+        }
+        if (x == 0) {
+            return 0;
+        }
+        int x_ = stack(x, n - 1);
+        int xn = x * x_;
+        return xn;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        int n = sc.nextInt();
+        System.out.println(stack(x, n));
+    }
+}
+```
+# 7. Print x^n (with stack height = logn).
+```
+package Programs_Related_To_Recursion;
+
+import java.util.*;
+
+public class Recursions {
+    public static int stack(int x, int n) {
+        if (n == 0) {
+            return 1;
+        }
+        if (x == 0) {
+            return 0;
+        }
+        if (n % 2 == 0) {
+            return stack(x, n / 2) * stack(x, n / 2);
+        } else {
+            return x * stack(x, n / 2) * stack(x, n / 2);
+        }
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        int n = sc.nextInt();
+        System.out.println(stack(x, n));
+    }
+}
+```
